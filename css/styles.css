@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  color: #40514e;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  padding-top: 50px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.profile {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.profile p {
+  color: #40514E;
+  margin: auto;
+  width: 33%;
+  line-height: 2;
+}
+
+.skills {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom-container {
+  background-color: #65bfbf;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-container p {
+  color: #eaf6f6;
+  font-size: 14px;
+  margin-bottom: 0;
+  padding-top: 15px;
+}
+
+.footer-link {
+font-family: Montserrat;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.62rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+span {
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 200px;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-img {
+  width: 25%;
+  margin: auto 30px auto 0;
+  float: left;
+}
+
+.computer-img-text {
+  clear: left;
+}
+
+.chillies-img {
+  width: 25%;
+  margin: auto 0 auto 30px;
+  float: right;
+}
+
+.chillies-img-text {
+  clear: right;
+}
+
+.contact-me {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.contact-me p {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  padding-top: 15px;
+  padding-bottom: 55px;
+}
+
+.btn {
+  background-color: #66bfbf;
+  background-image: linear-gradient(#0dc6cd, #04949a);
+  padding: 15px;
+  text-decoration: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+
+.btn:hover {
+  background-color: #04949a;
+  background-image: linear-gradient(#04949a, #0dc6cd);
+  padding: 15px;
+  text-decoration: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+
+hr {
+  width: 5%;
+  border: 0;
+  border-top: 7px;
+  border-style: dotted;
+  border-color: #d6d6d6;
+}
